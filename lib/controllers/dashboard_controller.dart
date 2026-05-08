@@ -3,6 +3,7 @@
 // ============================================================
 
 import 'package:get/get.dart';
+import '../models/appNew_models.dart';
 import '../models/app_models.dart';
 
 class DashboardController extends GetxController {

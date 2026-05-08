@@ -9,6 +9,7 @@ import '../../controllers/app_controller.dart';
 import '../../controllers/dashboard_controller.dart';
 import '../../core/theme/app_colors.dart';
 import '../../core/theme/app_text_styles.dart';
+import '../../models/appNew_models.dart' show Transaction, TransactionStatus;
 import '../../models/app_models.dart';
 import '../../widgets/common/language_picker.dart';
 
